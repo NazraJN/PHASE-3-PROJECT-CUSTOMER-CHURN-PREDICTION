@@ -33,7 +33,7 @@ Analyzing the relationship between total calls, total charges, and time periods 
 Analyzing the relationship between total international calls, minutes, and charges.
 
 
-![Visualizations](totalcallls vs tota;_charges.png)
+![Total Calls VS Total Charges](https://github.com/okwarojona/PHASE-3-PROJECT-CUSTOMER-CHURN-PREDICTION/blob/master/totalcallls%20vs%20tota%3B_charges.png)
 
 
 
@@ -78,7 +78,7 @@ For each model, we fit the data, make predictions, and evaluate the performance 
 ##### Feature Importance
 * We identify the top features contributing to customer churn using feature importances from the models.
    
- ![Visualizations](Top 10 Feature Importances in RandomForestClassifier Model.png)  
+ ![Top 10 Feature Importances in RandomForestClassifier Model](https://github.com/okwarojona/PHASE-3-PROJECT-CUSTOMER-CHURN-PREDICTION/blob/master/Top%2010%20Feature%20Importances%20in%20RandomForestClassifier%20Model.png)  
    
 The best model for this dataset is the Tuned RandomForestClassifier with the following parameters:
 
